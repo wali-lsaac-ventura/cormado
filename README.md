@@ -1,6 +1,6 @@
 README.md
 
-# COMO Se USA
+# COMO SE USA
 
 1) Se imprime el título "———cormado———" para dar la bienvenida al colmado.
 
